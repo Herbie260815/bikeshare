@@ -33,3 +33,17 @@ The script will ask you to choose a city and filters.
 
 \- numpy
 
+
+
+
+
+\## License
+
+This project is for educational purposes.
+
+
+
+
+
+
+
