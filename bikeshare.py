@@ -11,7 +11,11 @@
 # https://www.python.org/
 
 # Changes July 12th 26
+
 # Refactoring Step 2: improved code readability
+
+# Refactoring Step 3: added input validation comments
+
            
 import time
 import datetime
