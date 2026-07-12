@@ -1,3 +1,6 @@
+# Version 2: refactored for clarity
+# Author: Herbie
+
 # Websites I used to check some commands and Python in general
 # https://stackoverflow.com/
 # https://pandas.pydata.org/pandas-docs/
@@ -6,6 +9,8 @@
 # https://realpython.com/
 # https://python-kurs.eu/python3_kurs.php
 # https://www.python.org/
+
+# Changes July 12th 26
            
 import time
 import datetime
