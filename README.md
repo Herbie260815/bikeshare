@@ -19,5 +19,17 @@ The script will ask you to choose a city and filters.
 
 \- bikeshare.py: main analysis script
 
-\- .gitignore: excludes CSV data files from version control
+\- .gitignore: excludes CSV data files from version Control
+
+
+
+
+
+\## Dependencies
+
+\- Python 3
+
+\- pandas
+
+\- numpy
 
